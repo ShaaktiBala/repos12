@@ -1,1 +1,7 @@
 print("Shaakti")
+print("python")
+print("Alice")
+print("Bob")
+print("Caroline")
+print("Denis")
+print("Emi")
